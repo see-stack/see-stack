@@ -15,7 +15,6 @@ I'm also contributing to open-source projects including React and Next.js.
 Some of my current projects:
 - [StackMCP](...)
 - [Pivot](...)
-- [Project 3](...)
 
 Previous GitHub account with older projects and contributions:
 [github.com/sdnssr1](https://github.com/sdnssr1)
