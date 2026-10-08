@@ -3,6 +3,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-@SeeStack-red?style=for-the-badge&logo=youtube)](https://youtube.com/@SeeStack)
 [![Instagram](https://img.shields.io/badge/Instagram-@see.stack-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/see.stack)
 [![X](https://img.shields.io/badge/X-@seestackx-000000?style=for-the-badge&logo=x)](https://x.com/seestackx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-See%20Stack-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/seestack/)
 [![Website](https://img.shields.io/badge/Website-seestack.dev-00f2fe?style=for-the-badge)](https://seestack.dev)
 [![Organization](https://img.shields.io/badge/Organization-@seestacks-1f2937?style=for-the-badge&logo=github)](https://github.com/seestacks)
 
