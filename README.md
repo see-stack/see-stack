@@ -2,6 +2,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-@SeeStack-red?style=for-the-badge&logo=youtube)](https://youtube.com/@SeeStack)
 [![Instagram](https://img.shields.io/badge/Instagram-@see.stack-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/see.stack)
+[![X](https://img.shields.io/badge/X-@seestackx-000000?style=for-the-badge&logo=x)](https://x.com/seestackx)
 [![Website](https://img.shields.io/badge/Website-seestack.dev-00f2fe?style=for-the-badge)](https://seestack.dev)
 [![Organization](https://img.shields.io/badge/Organization-@seestacks-1f2937?style=for-the-badge&logo=github)](https://github.com/seestacks)
 
@@ -21,6 +22,7 @@
 
 * **YouTube**: In-depth architecture deep-dives and terminal agent walk-throughs ➔ [youtube.com/@SeeStack](https://youtube.com/@SeeStack)
 * **Instagram**: Fast tips, CLI hacks, and one-command agent workflows ➔ [@see.stack](https://instagram.com/see.stack)
+* **X**: Rapid tooling drops, release announcements, and agent architecture notes ➔ [@seestackx](https://x.com/seestackx)
 
 ---
 
